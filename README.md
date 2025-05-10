@@ -1,5 +1,5 @@
 # 💫 About Me:
-Studing<br>Code with: JavaScript, GML, HTML&CSS and Lua<br>Currently alive '-'<br>From Brazil<br>Take easy on me, i'm have _autism_, _adhd_, _depression_ and _loneliness_ <br>
+Studing<br>Code with: JavaScript, GML, HTML&CSS and Lua<br>Currently alive '-'<br>From Brazil<br>Take easy on me, I have _autism_, _adhd_, _depression_ and _loneliness_ <br>
 
 
 ## 🌐 Socials:
