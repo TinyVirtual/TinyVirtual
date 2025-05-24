@@ -1,6 +1,6 @@
 # 💫 About Me:
 Studing<br>Code with: JavaScript, GML, HTML&CSS and Lua<br>Currently alive '-'<br>From Brazil<br>Take easy on me, I have _autism_, _adhd_, _depression_ and _loneliness_ <br>
-
+<br>[Check my main projects](https://tinyvirtual.github.io/projects.io/)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/YYTzQUUN2U) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/TinyVirttual) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@tinyvirtual) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@tiny.virtual) 
