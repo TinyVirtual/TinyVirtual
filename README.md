@@ -1,5 +1,5 @@
 # 💫 About Me:
-![🏳️](https://raw.githubusercontent.com/TinyVirtual/TinyVirtual/refs/heads/main/images/flag.png)  Aroace Agender | (it/its/any) [^1]
+![🏳️](https://raw.githubusercontent.com/TinyVirtual/TinyVirtual/refs/heads/main/images/flag.png)  Aroace Agender | (it/its/any) [^1] <br>
 📚 Studing and woking<br>
 ⌨️ JavaScript, GML, HTML&CSS and Lua<br>
 🎨 Digital Artist,🍩 3D Modeler, 💻 Programmer<br>
