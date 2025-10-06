@@ -10,8 +10,8 @@
 
 <details>
   <summary>🏅 My Achievements</summary>
-  🥉 Bronze Country Math Olympics Medal 2019
-  🥉 Bronze Regional Math Olympics Medal 2024
+  🥉 Bronze Country Math Olympics Medal 2019 <br>
+  🥉 Bronze Regional Math Olympics Medal 2024 <br>
   🥈 Silver Regional Math Olympics Medal 2025
 </details>
 
